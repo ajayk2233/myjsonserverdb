@@ -24,29 +24,5 @@
         "userName": "nathan.knight",
         "email": "nathan-85@example.com"
       },
-      {
-        "id": 5,
-        "fullName": "Brenda Hanson",
-        "userName": "brenda.hanson",
-        "email": "brenda97@example.com"
-      },
-      {
-        "id": 6,
-        "fullName": "Nathan Knight",
-        "userName": "nathan.knight",
-        "email": "nathan-85@example.com"
-      },
-      {
-        "id": 7,
-        "fullName": "Brenda Hanson",
-        "userName": "brenda.hanson",
-        "email": "brenda97@example.com"
-      },
-      {
-        "id": 8,
-        "fullName": "Nathan Knight",
-        "userName": "nathan.knight",
-        "email": "nathan-85@example.com"
-      }
     ]
     }
