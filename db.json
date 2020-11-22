@@ -2,27 +2,27 @@
     "posts":[
       {
         "id": 1,
-        "fullName": 'Danielle Kennedy',
-        "userName": 'danielle.kennedy',
-        "email": 'danielle_91@example.com'
+        "fullName": "Danielle Kennedy",
+        "userName": "danielle.kennedy",
+        "email": "danielle_91@example.com"
       },
       {
         "id": 2,
-        "fullName": 'Russell Payne',
-        "userName": 'russell.payne',
-        "email": 'russell_88@example.com'
+        "fullName": "Russell Payne",
+        "userName": "russell.payne",
+        "email": "russell_88@example.com"
       },
       {
         "id": 3,
-        "fullName": 'Brenda Hanson',
-        "userName": 'brenda.hanson',
-        "email": 'brenda97@example.com'
+        "fullName": "Brenda Hanson",
+        "userName": "brenda.hanson",
+        "email": "brenda97@example.com"
       },
       {
         "id": 4,
-        "fullName": 'Nathan Knight',
-        "userName": 'nathan.knight',
-        "email": 'nathan-85@example.com'
+        "fullName": "Nathan Knight",
+        "userName": "nathan.knight",
+        "email": "nathan-85@example.com"
       }
     ]
     }
