@@ -2,15 +2,15 @@
     "posts":[
       {
         "id": 1,
-        "fullName": "Danielle Kennedy",
-        "userName": "danielle.kennedy",
-        "email": "danielle_91@example.com"
+        "fullName": "Meher",
+        "userName": "meher007",
+        "email": "meher@gmail.com"
       },
       {
         "id": 2,
-        "fullName": "Russell Payne",
-        "userName": "russell.payne",
-        "email": "russell_88@example.com"
+        "fullName": "Ajay",
+        "userName": "ajay2233",
+        "email": "ajay.watchout@gmail.com"
       },
       {
         "id": 3,
@@ -20,6 +20,30 @@
       },
       {
         "id": 4,
+        "fullName": "Nathan Knight",
+        "userName": "nathan.knight",
+        "email": "nathan-85@example.com"
+      },
+      {
+        "id": 5,
+        "fullName": "Brenda Hanson",
+        "userName": "brenda.hanson",
+        "email": "brenda97@example.com"
+      },
+      {
+        "id": 6,
+        "fullName": "Nathan Knight",
+        "userName": "nathan.knight",
+        "email": "nathan-85@example.com"
+      },
+      {
+        "id": 7,
+        "fullName": "Brenda Hanson",
+        "userName": "brenda.hanson",
+        "email": "brenda97@example.com"
+      },
+      {
+        "id": 8,
         "fullName": "Nathan Knight",
         "userName": "nathan.knight",
         "email": "nathan-85@example.com"
