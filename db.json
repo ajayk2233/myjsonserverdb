@@ -17,12 +17,6 @@
     fullName: 'Brenda Hanson',
     userName: 'brenda.hanson',
     email: 'brenda97@example.com'
-  },
-  {
-    id: 4,
-    fullName: 'Nathan Knight',
-    userName: 'nathan.knight',
-    email: 'nathan-85@example.com'
   }
 ]
 }
